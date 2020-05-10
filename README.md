@@ -18,7 +18,7 @@ are interested in using it.
 
 ## Licence ##
 
-The text is release under the [CC BY-SA Creative Commons
+The text is released under the [CC BY-SA Creative Commons
 Attribution-ShareAlike 4.0 International][CC BY-SA] licence.
 
 This means it is free to share or adapt, but please credit the
