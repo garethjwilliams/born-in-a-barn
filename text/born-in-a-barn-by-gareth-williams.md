@@ -1,7 +1,8 @@
 ﻿---
 title: Born in a Barn
 subtitle: A Play in Three Acts
-author: Gareth Williams
+author: Gareth Williams (gareth@garethwilliams.net)
+rights: © 2020 Gareth Williams, CC BC-SA 4.0
 ---
 
 # Cast of Characters #

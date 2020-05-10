@@ -1,3 +1,3 @@
 - [x] More README.md
+- [x] More meta data (licence etc.)
 - [ ] Add notes to main text.
-- [ ] More meta data (licence etc.)
